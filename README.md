@@ -22,25 +22,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn" />
-
-  <table width="100%">
-    <tr>
-      <td align="center" width="40%">
-        <img src="https://avatars.githubusercontent.com/u/156388435?v=4" width="180px" style="border-radius: 50%;" />
-        <br />
-        <h3><b>Developer woals10006</b></h3>
-        <p><i>"꾸준히 성장하는 새싹 개발자입니다"</i></p>
-      </td>
-      <td align="center" width="60%">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals10006" /> 
-        <br />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=woals10006&theme=react-dark&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
