@@ -6,7 +6,7 @@
   <table width="100%">
     <tr>
       <td align="center" width="40%">
-       <img src="https://github.com/woals10006-commits/woals10006/issues/1#issue-3812104640" width="180px" style="border-radius: 50%;" />
+       <img src="https://private-user-images.githubusercontent.com/250503236/535492832-d9b98f34-c9fd-4419-a5b8-8733443d9deb.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzNzkzODcsIm5iZiI6MTc2ODM3OTA4NywicGF0aCI6Ii8yNTA1MDMyMzYvNTM1NDkyODMyLWQ5Yjk4ZjM0LWM5ZmQtNDQxOS1hNWI4LTg3MzM0NDNkOWRlYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNFQwODI0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjIzZmRiNjE0MWNiNGI1YTFmNDE1N2ZhZmMwM2ZlYWU2MmIxMWUwMTQyZjg5MWZmYzlmNzM3NThmNTlmMjFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fMpPT2PnBxR92OlMSYbpWn_ZtrEGMTVtXEiF_W26CkI" width="180px" style="border-radius: 50%;" />
         <br />
         <h3><b>Developer woals10006</b></h3>
         <p><i>"꾸준히 성장하는 새싹 개발자입니다"</i></p>
