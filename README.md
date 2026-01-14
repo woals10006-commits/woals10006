@@ -1,11 +1,5 @@
 # woals10006
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=woals10006&show_icons=true&theme=radical)
-제시해주신 내용을 바탕으로 2026년 트렌드에 맞춰 시각적으로 훨씬 풍부하고 전문적인 느낌이 나도록 개편했습니다. 특히 요청하신 **'얼굴 사진(프로필)'**과 **'새싹(Solved.ac 또는 활동량)'**을 강조할 수 있는 레이아웃을 포함했습니다.
-
-아래 코드를 복사해서 사용해 보세요.
-
-Markdown
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn" />
 
