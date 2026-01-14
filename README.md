@@ -6,26 +6,18 @@
   <table width="100%">
     <tr>
       <td align="center" width="40%">
-        <img src="https://avatars.githubusercontent.com/u/156388435?v=4" width="180px" style="border-radius: 50%;" />
+        <img src="https://private-user-images.githubusercontent.com/250503236/535492832-d9b98f34-c9fd-4419-a5b8-8733443d9deb.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzNzk5OTUsIm5iZiI6MTc2ODM3OTY5NSwicGF0aCI6Ii8yNTA1MDMyMzYvNTM1NDkyODMyLWQ5Yjk4ZjM0LWM5ZmQtNDQxOS1hNWI4LTg3MzM0NDNkOWRlYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNFQwODM0NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTM1ZDJmMjVjNzJlYWM5ODM1YzY0M2M2OTMwMmFiNWZiNDc2ZTQxYjYzYWUxNTMxOTM0YzJhNDI1OThmOTE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gILB6tj7zrRLIa4nEEQ-RClPh3ScOvMUDDIUMBZXBMw" width="180px" style="border-radius: 50%;" />
         <br />
         <h3><b>Developer woals10006</b></h3>
         <p><i>"꾸준히 성장하는 새싹 개발자입니다"</i></p>
       </td>
       <td align="center" width="60%">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=woals10006" /> 
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=본인BOJ아이디" /> 
         <br />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=woals10006&theme=react-dark&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Activity </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=woals10006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woals10006&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br>
@@ -50,12 +42,22 @@
 <br>
 
 <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=woals10006&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woals10006&layout=compact&theme=radical&hide_border=true" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
   <br>
-  <a href="https://your-notion-link">
+  <a href="본인노션링크">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:본인이메일">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </div>
@@ -64,8 +66,3 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</div>
