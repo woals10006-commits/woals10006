@@ -6,7 +6,7 @@
   <table width="100%">
     <tr>
       <td align="center" width="40%">
-       <img src="https://github.com/woals10006.png" width="180px" style="border-radius: 50%;" />
+       <img src="https://github.com/woals10006-commits/woals10006/issues/1#issue-3812104640" width="180px" style="border-radius: 50%;" />
         <br />
         <h3><b>Developer woals10006</b></h3>
         <p><i>"꾸준히 성장하는 새싹 개발자입니다"</i></p>
