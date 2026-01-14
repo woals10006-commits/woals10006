@@ -6,7 +6,7 @@
   <table width="100%">
     <tr>
       <td align="center" width="40%">
-        <img src="본인의_사진_직접링크_혹은_이미지경로" width="180px" style="border-radius: 50%;" />
+        <img src="![Image](https://github.com/user-attachments/assets/d9b98f34-c9fd-4419-a5b8-8733443d9deb)" width="180px" style="border-radius: 50%;" />
         <br />
         <h3><b>Developer woals10006</b></h3>
         <p><i>"꾸준히 성장하는 새싹 개발자입니다"</i></p>
